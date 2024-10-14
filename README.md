@@ -31,3 +31,6 @@ space: Y = image * M23
 10. Transform the image-test in a vector, then project it in principal
 components space, by multiplication with M
 11. Apply kNN with k = 5, the result being the prediction
+
+# Bibliography
+The project started from a base with unimplemented functions.
