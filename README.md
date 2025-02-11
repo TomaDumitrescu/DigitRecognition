@@ -1,6 +1,5 @@
 # Copyright 2023 Toma-Ioan Dumitrescu
 
-
 # Description:
 
 Implementation of given mathematical models in Octave for Task 1: SVD image
